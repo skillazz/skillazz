@@ -1,5 +1,5 @@
 <h2 align="center">Hello there! 👋</h2>
-<p align="center"><b>My name is Marcin and Im aspiring to become a Junior Frontend Developer.</b></p>
+<p align="center"><b>My name is Marcin and Im aspiring to become a Frontend Developer.</b></p>
 <p align="center"> I’m currently working on developing my skills 💪</p>
 
 <p align="left">🎓 Roadmap:</p>
