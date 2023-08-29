@@ -29,7 +29,6 @@
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vue.png?20170311074507" alt="VueJS" height="50" />  
 
 
-
   
 </div>  
   <br/>
@@ -42,22 +41,3 @@
 <a href="https://linkedin.com/in/skillazz" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<br/>
-<br/>
-<br/>
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=skillazz&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skillazz&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
-<br/>  
-
-
-
-
-
