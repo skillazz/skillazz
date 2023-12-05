@@ -4,7 +4,7 @@
 
 <p align="left">🎓 Roadmap:</p>
 
-| ~~HTML~~ | ~~CSS~~ | ~~JS~~ | ~~React~~ | ~~TypeScript~~ | 👉**NextJS **👈 | Node.js | GraphQL |
+| ~~HTML~~ | ~~CSS~~ | ~~JS~~ | ~~React~~ | ~~TypeScript~~ | ~~NextJS~~ | 👉 ** Astro ** 👈 | 👉 ** Express ** 👈
 
 <br/>
 <p align="left">Languages and tools I ❤️:</p>  
@@ -23,10 +23,11 @@
   <br/>
   <br/>
   <br/>
-<p align="left">I used to work with:</p>  
+<p align="left">I also used to work with:</p>  
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1067px-PHP-logo.svg.png?20180502235434" alt="Php" height="50" />  
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Wordpress-Logo.svg/768px-Wordpress-Logo.svg.png?20210511042647" alt="Wordpress" height="50" />  
-<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vue.png?20170311074507" alt="VueJS" height="50" />  
+<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vue.png?20170311074507" alt="VueJS" height="50" /> 
+<img style="margin: 10px" src="https://nuxt.com/assets/design-kit/icon-green.svg" alt="Nuxt" height="50" /> 
 
 
   
