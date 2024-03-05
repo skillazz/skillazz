@@ -4,7 +4,7 @@
 
 <p align="left">🎓 Roadmap:</p>
 
-| ~~HTML~~ | ~~CSS~~ | ~~JS~~ | ~~React~~ | ~~TypeScript~~ | ~~NextJS~~ | 👉 ** Astro ** 👈 | 👉 ** Express ** 👈
+| ~~HTML~~ | ~~CSS~~ | ~~JS~~ | ~~React~~ | ~~TypeScript~~ | ~~NextJS~~ | ~~Astro~~  | 👉 ** NodeJS ** 👈 | 👉 ** React Native ** 👈 |
 
 <br/>
 <p align="left">Languages and tools I ❤️:</p>  
