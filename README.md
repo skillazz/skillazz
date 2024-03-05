@@ -18,7 +18,7 @@
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/768px-Typescript_logo_2020.svg.png?20221110153201" alt="TypeScript"  height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" />  
-<img style="margin: 10px" src="https://miro.medium.com/v2/resize:fit:3200/format:webp/0*LodjC9LWbhH_GpTB.png" alt="NextJS" height="50" />  
+<img style="margin: 10px" src="https://global.discourse-cdn.com/auth0/original/2X/a/ae35edce19e64c53e5d455b22e8a2c82d093d4c9.png" alt="NextJS" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
   <br/>
   <br/>
