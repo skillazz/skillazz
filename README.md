@@ -18,7 +18,7 @@
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/768px-Typescript_logo_2020.svg.png?20221110153201" alt="TypeScript"  height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" />  
-<img style="margin: 10px" src="https://camo.githubusercontent.com/640cf0782f4cf5d27164f8befdba3183d5e304f8a1d5812e7d25f32dffd6f04b/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f737461727475702d6772696e642f696d6167652f75706c6f61642f635f66696c6c2c6470725f322e302c665f6175746f2c675f63656e7465722c685f313038302c715f3130302c775f313038302f76312f6763732f706c6174666f726d2d646174612d6473632f6576656e74732f6e6578746a732d626f696c6572706c6174652d6c6f676f2e706e67" alt="NextJS" height="50" />  
+<img style="margin: 10px" src="https://miro.medium.com/v2/resize:fit:3200/format:webp/0*LodjC9LWbhH_GpTB.png" alt="NextJS" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
   <br/>
   <br/>
