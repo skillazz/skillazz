@@ -1,10 +1,6 @@
 <h2 align="center">Hello there! 👋</h2>
 <p align="center"><b>My name is Marcin and Im a Web Developer.</b></p>
-<p align="center"> I’m currently having fun in MassivePixelCreation and progressing with my skills 💪</p>
-
-<p align="left">🎓 Roadmap:</p>
-
-| ~~HTML~~ | ~~CSS~~ | ~~JS~~ | ~~React~~ | ~~TypeScript~~ | ~~NextJS~~ | ~~Astro~~  | 👉 ** NodeJS ** 👈 | 👉 ** React Native ** 👈 |
+<p align="center"> I’m currently having fun in 2-GO Systems and progressing with my skills 💪</p>
 
 <br/>
 <p align="left">Languages and tools I ❤️:</p>  
